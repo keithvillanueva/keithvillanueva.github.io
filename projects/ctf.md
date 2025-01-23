@@ -12,8 +12,8 @@ summary: "I participated in capture the flag competitions."
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/ctf/greyhats.png" class="img-thumbnail" >
   <img width="200px" src="../img/ctf/red-flag.png" class="img-thumbnail" >
+  <img width="200px" src="../img/ctf/greyhats.png" class="img-thumbnail" >
 </div>
 
 In the Spring and Fall semesters of 2024 I participated in capture the flag competitions through the National Cyber League's competition (NCL). A capture the flag competition is a type of competition designed as a learning and challenge-based activity for those interested in hacking and cybersecurity. In order to score points players have to find a key or "flag" that would be the answer to prompts provided by the organizers. This competition involves teams registered from all over the U.S. The NCL competition was split up between the team competition and the individual competition over two weekends. During the Spring semester I only participated in the team game, but in the Fall I did both the individual and team game. 
