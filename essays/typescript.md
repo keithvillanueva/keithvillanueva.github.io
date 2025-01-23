@@ -6,9 +6,9 @@ title: "Javascript but Better?!"
 date: 2025-01-23
 published: true
 labels:
-  -Software Engineering,
-  -JavaScript,
-  -TypeScript
+  - Software Engineering
+  - JavaScript
+  - TypeScrip
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
