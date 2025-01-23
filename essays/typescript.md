@@ -14,7 +14,7 @@ labels:
 <img width="300px" height="200px" class="rounded float-start pe-4" src="../img/typescript/typescript.png">
 <img width="200px" height="200px" class="rounded float-start pe-4" src="../img/typescript/thinking.jpg">
 
-In the Software Engineering class I am currently taking, we are being introduced to a new language that builds off of the Java programming language we had more experience with in earlier semesters. This new language is TypeScript. TypeScript is also a language that builds on another language called JavaScript. JavaScript is used by many software developers to build web applications on the internet. The transition I experienced from having learnt Java to now having to learn JavaScript and TypeScript wasn't too bad in comparison to learning Java for the first time, but I still have some ways to go.asdfasdfasdfasfasdfasdfasfasfasfasfasdfsadfasdfasdfadsfadsfasdfasfasdf asfasdfasfasdfadsfasdfasdfadsfadsfasfadsf
+In the Software Engineering class (ICS 314) I am currently taking in college, we are being introduced to a new programming language that builds off of the Java programming language I had more experience with in my earlier semesters in my freshman year. This new language is TypeScript. TypeScript is also a language that builds on another programming language called JavaScript. JavaScript is used by many software developers to build web applications on the internet. The transition I experienced from having learnt Java to now having to learn JavaScript and TypeScript wasn't too bad in comparison to having to learn Java for the first time (it was a nightmare), but I still have some ways to go in order to improve my skills in developing software.
 
 ## What is a function?
 
