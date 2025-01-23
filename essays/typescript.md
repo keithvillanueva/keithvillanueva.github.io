@@ -11,7 +11,8 @@ labels:
   - TypeScript
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+<img  class="rounded float-start pe-4" src="../img/typescript/typescript.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/typescript/thinking.jpg">
 
 In the Software Engineering class I am currently taking, we are being introduced to a new language that builds off of the Java programming language we had more experience with in earlier semesters. This new language is TypeScript. TypeScript is also a language that builds on another language called JavaScript. JavaScript is used by many software developers to build web applications on the internet. The transition I experienced from having learnt Java to now having to learn JavaScript and TypeScript wasn't too bad, but I have other opinions about it. 
 
