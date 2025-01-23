@@ -6,7 +6,7 @@ title: "Javascript but Better?!"
 date: 2025-01-23
 published: true
 labels:
-  - Software Engineering
+  -Software Engineering
   -JavaScript
   -TypeScript
 ---
