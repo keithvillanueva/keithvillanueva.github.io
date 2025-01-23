@@ -11,7 +11,8 @@ labels:
   - Scanner
 summary: "A simple to-do checklist made using Java Scanner class."
 ---
-<img class="img-fluid" src="..img/to-do/to-do-list.jpg">
+<img class="img-fluid" src="../img/cotton/cotton-header.png">
+
 This to-do list was made during my freashman year while I was still in ICS 211. It runs uby interacting with a .txt file on my computer.
 
 The to-do list is implemented using Java and makes use of Array Lists, the Scanner class, and the JOptionPane class. When running the program there are options to add new tasks or remove tasks from the checklist and quit when done. The program interacts with the user through the JOptionPane classs which has a small popup window that prompts the user for input.
