@@ -49,59 +49,44 @@
         "Imaged and deployed 20+ computers to 5+ different county office locations around the island of Kauai",
         "Recorded the serial numbers of nearly 800 hard drives and packaged them for proper recycling"
       ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Kekuhaupi'o Tech Mentorship Program",
+      "website": "",
+      "position": "Member",
+      "startDate": "2024-03-01",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Network with current industry professionals across various fields to gain valuable insight into current tech careers",
+        "Closely collaborate with a mentor to explore potential career paths and interests through monthly meetings",
+        "Actively participate in various career workshops aimed to develop soft skills and resume building practices"
       ]
     },
     {
-      "organization": "",
+      "organization": "Grey Hats Club",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "position": "Member",
+      "startDate": "2023-09-01",
+      "endDate": "Present",
+      "summary": "Member of school cybersecurity club.",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Competed in various capture the flag competitions",
+        "Placed in the 79th percentile in the National Cyber League (NCL) Spring 2024 Team Game",
+        "Placed in the 78th percentile in the NCL Fall 2024 Individual Game",
+        "Placed in the 91st percentile in the NCL Fall 2024 Team Game",
+        "Develop skills in various Linux tools for vulnerability exploitation and information gathering"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Cisco Certified Support Technician (CCST) Certification",
+      "date": "2024-Present",
+      "awarder": "Cisco",
+      "summary": "Certification of basic connectivity and troubleshooting skills of network devices"
     }
   ],
   "references": [
