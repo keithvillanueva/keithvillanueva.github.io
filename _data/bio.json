@@ -37,15 +37,17 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "County of Kauai",
+      "position": "Intern",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2024-06-04",
+      "endDate": "2024-07-19",
+      "summary": "Intern for the County of Kauai Information Technology Department",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Utilized a cloud based device management system to remotely push applications to 20+ devices",
+        "Employed network analysis tools to create a map of Wi-Fi signal strength areas within the central office building for efficient placement of future wireless access points",
+        "Imaged and deployed 20+ computers to 5+ different county office locations around the island of Kauai",
+        "Recorded the serial numbers of nearly 800 hard drives and packaged them for proper recycling"
       ]
     },
     {
