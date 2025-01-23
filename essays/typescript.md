@@ -16,6 +16,8 @@ labels:
 
 In the Software Engineering class I am currently taking, we are being introduced to a new language that builds off of the Java programming language we had more experience with in earlier semesters. This new language is TypeScript. TypeScript is also a language that builds on another language called JavaScript. JavaScript is used by many software developers to build web applications on the internet. The transition I experienced from having learnt Java to now having to learn JavaScript and TypeScript wasn't too bad, but I have other opinions about it. 
 
+
+
 ## What is a function?
 
 Though Java is a high level programming language that can be easily understood in normal contexts, both TypeScript and JavaScript are much more simple to understand at a quick glance of the code. TypeScript uses just three basic data types in numbers, strings, and boolean values. When working with the code I was able to quickly realize there really wasn't too much need for other data types as most problems could be solved in some way by the three aforementioned types. The creation of objects in TypeScript as compared to Java is also quite similar as there were just minor tweaks in the grammar/syntax of the languages. The best addition that TypeScript offered was the compile time type checking, where it will tell you if there is a mistake in your code as you are typing it out without having to run the code. This was helpful in the learning process and I can see it being helpful in future projects.
