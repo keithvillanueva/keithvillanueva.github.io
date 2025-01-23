@@ -8,49 +8,20 @@ published: true
 labels:
   - Software Engineering
   - JavaScript
-  - TypeScrip
+  - TypeScript
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+In the Software Engineering class I am currently taking, we are being introduced to a new language that builds off of the Java programming language we had more experience with in earlier semesters. This new language is TypeScript. TypeScript is also a language that builds on another language called JavaScript. JavaScript is used by many software developers to build web applications on the internet. The transition I expereinced from having learnt Java to now having to learn JavaScript and TypeScript wasn't too bad, but I have other opinions about it. 
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
+## What is a fucntion?
 
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
+Though Java is a high level programming language that can be easily understood in normal contexts, both TypeScript and JavaScript are much more simple to understand at a quick glance of the code. TypeScript uses just three basic data types in numbers, strings, and boolean values. When working with the code I was able to quickly realize there really wasn't too much need for other data types as most problems could be solved in some way by the three aforementioned types. The creation of objects in TypeScript as compared to Java is also quite similar as there were just minor tweaks in the grammar/syntax of the languages. The best addition that TypeScript offered was the compile time type checking, where it will tell you if there is a mistake in your code as you are typing it out without having to run the code. This was helpful in the learning process and I can see it being helpful in future projects.
 
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
 
-Here's what I think: the difficult things will always be difficult.
+## Future in Sofware Engineering
 
-## In the context of programming
+This class uses the flipped classroom format where most learning is done outside of class hours and class time is more of a collaboration. I personally am not a fan of this type of model for some subjects like math class or a science class, but in the context of the goals of the professors teaching the course, it makes sense. Their "Athletic Software Engineering" pedagogy aims to equip students with basic competency in modern software engineering technologies, and I feel being able to learn new skills and ideas on your own time is a good way to prepare students for jobs after school. By learning through experiencing and coding the software ourselves is much better than having to sit through 90 minute lectures doing nothing, but taking notes. The practice "Workout of the Day" that they provide is small problem to test student competency in an area, and I feel they were helpful in showing me areas where I might need improvement and revisit my notes. 
 
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
-
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
-
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
-
-## In the context of engineering
-
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
-
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
-
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
-
-## In the context of relationships
-
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
-
-## Okay!
-
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
+Though my current plans for the future don't really involve software engineering, this class might change that. 
