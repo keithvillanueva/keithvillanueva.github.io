@@ -10,7 +10,7 @@
     "location": { "address": "", "postalCode": "", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "keithvillanueva", "url": "http://github.com/keithvillanueva" },
-      { "network": "linkedin", "username": "Laurent Keith Villanuvea", "url": "http://linkedin.com/in/laurent-keith-villanueva" }
+      { "network": "linkedin", "username": "Laurent Keith Villanueva", "url": "http://linkedin.com/in/laurent-keith-villanueva" }
     ]
   },
   "interests": [
@@ -21,7 +21,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript" ]
+      "keywords": [ "C", "C++", "Java", "JavaScript", "TypeScript" ]
     }
   ],
   "education": [
@@ -71,7 +71,7 @@
       "position": "Member",
       "startDate": "2023-09-01",
       "endDate": "Present",
-      "summary": "Member of school cybersecurity club.",
+      "summary": "School cybersecurity club",
       "highlights": [
         "Competed in various capture the flag competitions",
         "Placed in the 79th percentile in the National Cyber League (NCL) Spring 2024 Team Game",
