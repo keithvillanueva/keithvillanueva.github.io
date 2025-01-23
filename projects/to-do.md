@@ -11,7 +11,7 @@ labels:
   - Scanner
 summary: "A simple to-do checklist made using Java Scanner class."
 ---
-<img class="img-fluid" src="..img/to-do/Screenshot 2025-01-22 201621.png">
+<img class="img-fluid" src="../img/to-do/Screenshot 2025-01-22 201621.png">
 
 This to-do list was made during my freashman year while I was still in ICS 211. It runs uby interacting with a .txt file on my computer.
 
