@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/ctf/red-flag.png
 title: "Capture the Flag"
 date: 2024
 published: true
