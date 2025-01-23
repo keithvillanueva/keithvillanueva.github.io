@@ -13,7 +13,7 @@ summary: "Over the Summer I got my CCST certification."
 ---
 
 <div class="text-center p-4">
-  <img width="400px" height="250px"src="../img/cert/ccst-net.jpg" class="img-thumbnail" >
+  <img width="400px" src="../img/cert/ccst-net.jpg" class="img-thumbnail" >
 </div>
 
 During my Summer Internship at the County of Kaua'i I found myself having a lot of free time as there wasm't much I was being tasked to do. To not waste that free time, I decided to pursue the Cisco Certified Support Technician certification in order to learn more about networking. I had heard about the certification from a mentor when I mentioned my interest in cybersecurity. He suggested first learning about networking as it is the foundation of everything that is connected. The learning material I chose started off really slow with basic background information about the internet and the history of the technology. However, once it started getting into more of the details of the technology behind these data networks and how it travels is when I got hooked.  
