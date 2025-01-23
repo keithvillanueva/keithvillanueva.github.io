@@ -18,4 +18,4 @@ The to-do list is implemented using Java and makes use of Array Lists, the Scann
 
 In this project I gained experience with reasearching and utilizing different classes in Java and using the different classes to read and write to a text file on my computer in order to save the task list so it isn't deleted when the user quits. I also gained some experience in understanding how to counter misinputs as user input is not always uniform, so the options really forced me to think from a different perspective.
  
-Source: <a href="https://github.com/theVacay/vacay">theVacay/vacay</a>
+Source: <a href="https://github.com/keithvillanueva/img/to-do/to-do-list.jpg">to-do/to=do-list</a>
