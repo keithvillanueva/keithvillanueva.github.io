@@ -11,8 +11,6 @@ labels:
 
 <img width="200px" class="rounded float-start pe-4" src="../img/journey/journey.avif">
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
-
 Like many people just getting into tech today, my interest first started becuase of video games. Sandbox games like Minecraft and first-person shooter gaems like Call of Duty attracted people from all walks of life. I, personally was obsessed with Minecraft. I would spends hours in the game trying to build cool structures out of various blocks, I wreaked havoc on all the animals I would see, and I'd watch videos on YouTube to see what else I could do. One thing I couldn't wrap my head around though was redstone. Redstone in Minecraft is sort of like electricity and can be used to power very complex machines. In a way it was also similar to coding as it was possible to make things similar to if/else statements using just redstone.
 
 ## So what?
