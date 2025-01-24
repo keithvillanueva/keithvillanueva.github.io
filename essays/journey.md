@@ -16,5 +16,4 @@ Like many people just getting into tech today, my interest first started becuase
 ## So what?
 One of the main reasons I first got into programming was to make games. The first game I ever created from scratch was made using Scratch. Scratch is a learning tool made by MIT that utilizes blocks to represent code. By piecing together blocks, similar to building legos, anybody can make a runninn program. This first game was an obstacle course containing three stages where users had to touch enemies to defeat them. Obviously this game I made in middle school was still very rough around the edges, but it got the wheels turning in my head about going into technology in the future.
 
-
-[Link to my first game](https://keithvillanueva.github.io/](https://scratch.mit.edu/projects/176889426/)
+[Link to my first game](https://scratch.mit.edu/projects/176889426/)
