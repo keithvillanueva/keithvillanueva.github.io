@@ -13,87 +13,17 @@ labels:
 
 <img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
 
-## Did teachers lie about the existence of stupid questions?
+## Did Teachers Lie About Stupid Questions?
+Many professors and teachers in school have started the first days of class off by saying that there is no such thing as a stupid question. This was one of my professor last semester. The class he was teaching was known for being a much bigger step up from our previous computer science classes, and he wasn't afraid to tell us that learning the material would be challenging. He would repeatedly say "There are no stupid questions" in order to encourage us to not be shy to inquire further about concepts we couldn't understand. While I do think there are no stupid questions, it is much better to first take a step back to think a little more about what it is you want to ask, and ask a smart question.
 
-Many professors and teachers in school have started the first days of class off by saying that there is no such thing as a stupid question. This was one of 
+One of the main reasons why people may think there exists stupid questions is because some of these questions can be answered by just putting in the tiniest amount of effort. One prevalent example of this is asking questions that are already written, whether it be on the whiteboard or in the syllabus. Before asking questions, it is important to first try to figure out a solution on your own. By doing so, it can be a more effective way to learn how to solve problems as you come up with your own solution. However, when you just can't seem to understand something, it is time to ask a smart question. 
 
-## What’s a smart question?
+## What’s a Smart Question?
+Smart questions often require some type of plan beforehand in order to effectively communicate the problem you are trying to solve and your current thoughts about the issue. It is first important to choose the right place to ask your question. You wouldn't try asking how to cook pasta on a forum about woodworking. Finding the right place to ask your question will give you many like-minded people to ask. After finding a suitable forum, providing a clear description of the issue you are trying to solve is sure to help readers understand what end goal you are looking for. It is important to be precise and descriptive, but be sure to be concise in wording. Too much detail at first can burden or distract readers from the main goal. 
 
-Stack Overflow, a question and answer site for programmers, is a great resource for anyone who may have issues with code or who may simply want to learn new or different methods of doing something. There I found examples of good questions and bad questions, which could probably be improved.
+One example I found of a smart question online is [this question](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array) on StackOverflow (forum for software developers) which asked "Why is processing a sorted array faster than processing an unsorted array?". In the post the user went on to clearly explain the issue that they were having trouble wrapping their head around. They explained that in both Java and C++ programming languages for their program, their program was somehow running faster when the array was sorted versus when it was unsorted. In the post the user provided snippets of their code and their current thinking as to what was happening under the hood in the compiler, CPU, and cache. The user effectively communicated their problem and gave concise descriptions about the issue, adding their code to provide context. In the comments, one user was able to answer the problem with many others in agreement in other threads.
 
-In the following example, we examine the components of a decent question. In this case, the asker is trying to figure out a way to get the date of the previous month in Python.
+However in [this example](https://stackoverflow.com/questions/35181785/android-sometimes-force-kills-application) this user did not ask a smart question. Their title "Android sometimes force kills application" is unclear as to what they think could be causing an issue. In their description of the issue, they provided a reenactment of how to produce the issue again, which is good, but they failed to provide the additional context surrounding the issue, as can be seen in many of the comments asking for additional information. Answers to the problem are unclear and there is no consensus on the right solution to their issue.
 
-```
-Q: python date of the previous month
-
-I am trying to get the date of the previous month with python. Here is what i've tried:
-
-str( time.strftime('%Y') ) + str( int(time.strftime('%m'))-1 )
-
-However, this way is bad for 2 reasons: First it returns 20122 for the February of 2012 (instead of 201202) 
-and secondly it will return 0 instead of 12 on January.
-
-I have solved this trouble in bash with:
-
-echo $(date -d"3 month ago" "+%G%m%d")
-
-I think that if bash has a built-in way for this purpose, then python, much more equipped, should provide something 
-better than forcing writing one's own script to achieve this goal. Of course i could do something like:
-
-if int(time.strftime('%m')) == 1:
-    return '12'
-else:
-    if int(time.strftime('%m')) < 10:
-        return '0'+str(time.strftime('%m')-1)
-    else:
-        return str(time.strftime('%m') -1)
-        
-I have not tested this code and i don't want to use it anyway (unless I can't find any other way:/)
-
-Thanks for your help!
-```
-
-While the heading of his question could be better, it does convey what he’s trying to figure out. Usually something as brief as “python date of previous month” is what other users would enter in as search terms on Google, making it easily found. Another good thing about the question is that it’s not just a question. The asker shows what he or she has done and that he or she has put in some effort to answer the question. And while it may not be as important as the question itself, the asker shows courtesy, which does increase the chance of getting an answer.
-
-```
-A: datetime and the datetime.timedelta classes are your friend.
-
-1. find today
-2. use that to find the first day of this month.
-3. use timedelta to backup a single day, to the last day of the previous month.
-4. print the YYYYMM string you're looking for.
-
-Like this:
-
- >>> import datetime
- >>> today = datetime.date.today()
- >>> first = datetime.date(day=1, month=today.month, year=today.year)
- >>> lastMonth = first - datetime.timedelta(days=1)
- >>> print lastMonth.strftime("%Y%m")
- 201202
- >>>
-
-```
- 
-The asker received six possible answers, and he or she was successful in inciting discussion from multiple users. The answers themselves were clear and were devoid of the rumored sarcasm and hostility of “hackers.” Since I myself have referenced this page and found it useful, I can confidently say that it is a good question.
-
-## The foolproof way to get ignored.
-
-While there are decent questions that benefit everyone, there are those one can ask to create an entirely different effect. In the following example, a user asks how he would, in short, create a desktop application with Facebook.
-
-```
-Q: Facebook Desktop Notifier
-
-I am a beginner programmer that have never used anything other than what's included in a language.
-
-I am trying to create a desktop application that notifies me anytime I get an update onfacebook. 
-How should go about doing this? Thanks in advance.
-
-edit Sorry I was not clear. Is there any way to make a DESKTOP application with facebook?
-```
-
-A simple “yes” would have answered the question, but we know that’s not the sort of answer he or she is looking for. Fortunately, someone kindly responded with a link to Facebook’s developer website. The asker should have done more research on his or her potential project. Then further down the road, he or she could have asked more specific and detailed questions that wouldn’t require a thousand-paged response for a sufficient answer.
-
-## Conclusion
-
-When we rely on others’ generosity and expertise to provide answers to our questions, it should hold that the question we ask should be one that leads to efficient and effective help that not only benefits us, but also the people we ask and others who might ask the same question in the future. Thus, if you have a question… make it a smart one! Asking questions may not always get you the best answer, but asking them in a way that will make others want to answer them will increase the success of finding a good solution and make it a positive experience on all sides.
+## Asking Smart Questions for Software Engineering
+For software engineers, asking smart questions is crucial to understanding and learning difficult topics. Asking smart questions to those that are more knowledgeable than yourself about a topic will support growth in skills and knowledge in software engineering. When asking smart questions, first try to understand the problem on your own. If that fails then find a suitable place for your question and be clear and concise in providing descriptions and context. Not so smart questions fail to provide a clear end goal that is meant to be accomplished and unclear circumstances. Asking smart questions for software engineers is the start of learning.
