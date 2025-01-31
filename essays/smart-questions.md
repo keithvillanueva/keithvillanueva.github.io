@@ -11,7 +11,7 @@ labels:
   - StackOverflow
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/smart-questions.jpg">
 
 ## Did Teachers Lie About Stupid Questions?
 Many professors and teachers in school have started the first days of class off by saying that there is no such thing as a stupid question. This was one of my professor last semester. The class he was teaching was known for being a much bigger step up from our previous computer science classes, and he wasn't afraid to tell us that learning the material would be challenging. He would repeatedly say "There are no stupid questions" in order to encourage us to not be shy to inquire further about concepts we couldn't understand. While I do think there are no stupid questions, it is much better to first take a step back to think a little more about what it is you want to ask, and ask a smart question.
