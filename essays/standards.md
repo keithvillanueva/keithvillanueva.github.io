@@ -25,10 +25,10 @@ While doing an assignment ESLint would throw me suggestions like changing some o
 There were some instances however where some standards I had to follow through ESLint seemed unnecessary. One such example was having to place a space before the opening curly bracket '{' when declaring a function, loop, or anything that required the bracket. Not doing so would underline in red the whole space enclosed by the curly brackets which freaked me out, and made me think there was something terribly wrong with my code. That little space before the curly bracket I felt didn't do much to imprve the readability of the code anyway and felt petty. 
 
 <div class="text-center p-4">
-  <img width="200px" 
+  <img width="400px" 
        src="../img/standards/Screenshot 2025-02-12 224234.png" 
        class="img-thumbnail" >
-  <img width="200px" 
+  <img width="400px" 
        src="../img/standards/Screenshot 2025-02-12 224312.png" 
        class="img-thumbnail" >
 </div>
