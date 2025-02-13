@@ -30,5 +30,9 @@ There were some instances however where some standards I had to follow through E
 
 
 
+
+
+
+
 ## Beyond the Classroom
 While I agree that coding standards are helpful in creating readable code, especially in environments where teamwork is needed, I feel that some of the standards enforced by ESLint can be a bit extra where breaking some of them wouldn't affect readabiltiy of the code. However, ESLint has also been helpful in ways that have helped me to understand how to code better when going through the error mesasges provided. Overall, my short experience with ESLint has shown to be helpful in my learning and I plan to continue to utilize it to my benefit.
