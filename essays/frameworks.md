@@ -32,7 +32,7 @@ There are also many different public tools out there called frameworks that can 
 <br>
 <img style="white-space: pre-line;" width="200px" class="rounded float-start pe-4" src="../img/frameworks/wbootstrap.png">
 <br>
-*Using Boostrap*
+*Using Bootstrap*
 
 
 ## Bootstrap + HTML
