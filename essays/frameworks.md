@@ -11,7 +11,7 @@ labels:
   - HTML
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/frameworks/bootstrap.jpg">
+<img width="400px" class="rounded float-start pe-4" src="../img/frameworks/bootstrap.jpg">
 
 *"You don't learn to walk by following rules. You learn by doing, and falling over."* - Richard Branson
 
