@@ -24,7 +24,7 @@ One of things I liked about HTML was the amount of customizability it could supp
 <img style="white-space: pre-line;" width="200px" class="rounded float-start pe-4" src="../img/frameworks/nobootstrap.png">
 <br>
 *Using just HTML*
-
+<br>
 
 ## Stop It, Get Some Help
 
@@ -33,7 +33,7 @@ There are also many different public tools out there called frameworks that can 
 <img style="white-space: pre-line;" width="200px" class="rounded float-start pe-4" src="../img/frameworks/wbootstrap.png">
 <br>
 *Using Bootstrap*
-
+<br>
 
 ## Bootstrap + HTML
 
