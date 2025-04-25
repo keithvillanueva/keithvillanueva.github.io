@@ -11,6 +11,7 @@ labels:
 
 <img width="200px" class="rounded float-start pe-4" src="../img/patterns/chameleon_tail.jpg">
 <br>
+
 *Pattern: a reliable sample of traits, acts, tendencies, or other observable characteristics of a person, group, or institution.*
 <br>
 In nature, patterns are everywhere. Many times, these patterns play a big part to an organism'ssurvival. One such example of this is the owl, butterfly whose spotted wings imitate the appearance of an owl to deter its predators. These patterns on their wings buy these butterflies at least a bit more time to survive in the wild. One example of a pattern that is not super crucial to an organism's survival is the rings in the logs of trees. Though this pattern may be by coincidence and a result of the tree getting bigger and growing older, this pattern signifies the large amount of time the tree has gone through, reaching up to the hundreds of years and rings. 
