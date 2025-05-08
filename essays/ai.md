@@ -4,7 +4,7 @@ type: essay
 title: "AI Ain't All That"
 # All dates must be YYYY-MM-DD format!
 date: 2025-05-12
-published: false
+published: true
 labels:
   - Software Engineering
   - Artificial Intelligence
