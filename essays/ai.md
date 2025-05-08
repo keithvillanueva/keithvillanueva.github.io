@@ -12,7 +12,6 @@ labels:
 
 <img width="200px" class="rounded float-start pe-4" src="../img/ai/ai.png">
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
 # Reflecting on My Use of AI in ICS 314
 
 ## I. Introduction
