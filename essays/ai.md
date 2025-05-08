@@ -16,15 +16,15 @@ labels:
 
 ## I. Introduction
 
-The use of artificial intelligence has become a norm among students in modern education, transforming how some students learn, engage with new concepts, and solve problems. In the context of software engineering, many AI tools offer immediate feedback in the code editor, quickly generate code examples to prompts, clarify complex concepts, and serve as 24/7 available tutors. In ICS 314, the integration of AI has provided both opportunities and challenges. During this semester course, I used the AI tools ChatGPT and GitHub Copilot the most. These tools played different roles in my software engineering journey, from writing code to debugging and documentation. I used ChatGPT for simplification of concepts that were difficult for me, code and idea generation, and troubleshooting. I used Github Copilot for code completion and suggestion. 
+The use of artificial intelligence has become a norm among students in modern education, transforming how some students learn, engage with new concepts, and solve problems. In the context of software engineering, many AI tools offer immediate feedback in the code editor, quickly generate code examples to prompts, clarify complex concepts, and serve as 24/7 available tutors. In ICS 314, the integration of AI has provided both opportunities and challenges. During this semester course, I used the AI tools ChatGPT and GitHub Copilot the most. These tools played different roles in my software engineering journey, from writing code to debugging and documentation. I used ChatGPT for simplification of concepts that were difficult for me, code and idea generation, and troubleshooting. I used Github Copilot for code completion and suggestions. 
 
 ---
 
 ## II. Personal Experience with AI
 
 ### 1. Experience WODs (e.g., E18)  
-*Example: For the most of the React and Nextjs Experience WODs I would ask ChatGPT "What is x component doing in this code?"*  
-*Reflection:* At the time, the nesting of elements was very confusing to me and it was hard for me to wrap my around some of the concepts of these new objects and how it was translating to HTML. I still don't think I have a great understanding of it, but can get by when reading and trying to understand what a piece of code is doing.
+*Example: For most of the React and Nextjs Experience WODs I would ask ChatGPT "What is x component doing in this code?"*  
+*Reflection:* At the time, the nesting of elements was very confusing to me and it was hard for me to wrap my head around some of the concepts of these new objects and how it was translating to HTML. I still don't think I have a great understanding of it, but can get by when reading and trying to understand what a piece of code is doing.
 
 ### 2. In-class Practice WODs  
 *Example: For in-class Practice WODs my experience was similar to the above with the experience WODs.*  
@@ -36,15 +36,15 @@ The use of artificial intelligence has become a norm among students in modern ed
 
 ### 4. Essays  
 *Example: I haven't used any AI for essay generation prior to its use in this essay. I used the prompt "create an essay based on this, leaving any areas where it asks for personal experiences/examples blank for me to fill out" and copy pasted the page.*  
-*Reflection:* AI was useful in saving time having to format everthing and getting a foundation for the introduction and later paragrahs. Of course I filled out my own experiences and revised the generated paragraphs to use my own voice.
+*Reflection:* AI was useful in saving time having to format everything and getting a foundation for the introduction and later paragraphs. Of course I filled out my own experiences and revised the generated paragraphs to use my own voice.
 
 ### 5. Final Project  
 *Example: ChatGPT was relied upon heavily during writing the playwright tests for the project and formatting of some elements such as the sidebar.*  
-*Reflection:* For the playwright tests I used ChatGPT to troubleshoot all the errors I was getting as most tests were fine when I clicked throuugh each test in debug mode, but running the tests at full speed would result in most tests failing as the sign in page would fail. I would ask ChatGPT what was wrong with the error codes attached and implement them in my code. The responses were useful half the time, but the other half of the responses did not work.
+*Reflection:* For the playwright tests I used ChatGPT to troubleshoot all the errors I was getting as most tests were fine when I clicked through each test in debug mode, but running the tests at full speed would result in most tests failing as the sign in page would fail. I would ask ChatGPT what was wrong with the error codes attached and implement them in my code. The responses were useful half the time, but the other half of the responses did not work.
 
 ### 6. Learning a Concept / Tutorial  
-*Example: I asked ChatGPT to explain styliing and how Nextjs elements like Navbar translate to HTML.*  
-*Reflection:* The response was initially helpful in understanding what was going on under the hood, but I have since forgotten how it works and don't plan on relearning it again. One reason may be a I have a weak foundation in HTML and styling in the first place, so the new information went in one ear and out the other in some time.
+*Example: I asked ChatGPT to explain styling and how Nextjs elements like Navbar translate to HTML.*  
+*Reflection:* The response was initially helpful in understanding what was going on under the hood, but I have since forgotten how it works and don't plan on relearning it again. One reason may be that I have a weak foundation in HTML and styling in the first place, so the new information went in one ear and out the other in some time.
 
 ### 7. Answering a Question in Class or on Discord  
 *Example: I didn't use any AI to answer a question in class or on Discord.*  
@@ -64,14 +64,14 @@ The use of artificial intelligence has become a norm among students in modern ed
 
 ### 11. Writing Code  
 *Example: I used ChatGPT and Github Copilot most prominently during the final project to write code for me as working with prisma schemas for the database was very confusing to me.*  
-*Reflection:* The geenrated code was useful most of the time after I would look it over and ask it to revise parts I thoguht were wrong.
+*Reflection:* The generated code was useful most of the time after I would look it over and ask it to revise parts I thought were wrong.
 
 ### 12. Documenting Code  
 *Example: I didn't use any AI to specifically document code as it would create comments automatically after asking it to generate code.*  
 *Reflection:* The comments it did provide were useful in providing explanations for what was meant to happen and it also indicated places to change the code to fit my needs.
 
 ### 13. Quality Assurance  
-*Example: I used Github Copilot to save time when fixing ESLint error, most prominently indentation errors.*  
+*Example: I used Github Copilot to save time when fixing ESLint errors, most prominently indentation errors.*  
 *Reflection:* Since ESLint provides the area where there is an error, most of the time it is an easy formatting issue to fix, but after deleting an element a whole code block would be off expected indentation, so Copilot was useful in indenting whole blocks instead of me having to indent each one by one.
 
 ### 14. Other Uses in ICS 314 Not Listed  
@@ -82,25 +82,25 @@ The use of artificial intelligence has become a norm among students in modern ed
 
 ## III. Impact on Learning and Understanding
 
-AI tools have significantly affected the way I understand and apply software engineering concepts. They provided another layer of explanation that often helped me in my understanding. However, some uses such as generating full components of code did not aid me in learning. Heavy reliance on AI occasionally made me too dismissive of actually putting in the work to understand some meatieral, and I had to remind myself to independently practice and struggle through code to fully absorb the learning.
+AI tools have significantly affected the way I understand and apply software engineering concepts. They provided another layer of explanation that often helped me in my understanding. However, some uses such as generating full components of code did not aid me in learning. Heavy reliance on AI occasionally made me too dismissive of actually putting in the work to understand some material, and I had to remind myself to independently practice and struggle through code to fully absorb the learning.
 
 ---
 
 ## IV. Practical Applications
 
-Outside of ICS, Ai has been used to create things such as chatbots and used in research to analyze things like cancer. Some doctors are using AI to aid in detection of AI and predict the chances of development in a patient. Based on these it also aids in the creation of a treatment plan. In these real-world challenges, yes it can be useful, but I feel it is still required for some human verification at the end. AI should be used to save time to solve known problems, but new problems should still require human intevention.
+Outside of ICS, Ai has been used to create things such as chatbots and used in research to analyze things like cancer. Some doctors are using AI to aid in detection of AI and predict the chances of development in a patient. Based on these it also aids in the creation of a treatment plan. In these real-world challenges, yes it can be useful, but I feel it is still required for some human verification at the end. AI should be used to save time to solve known problems, but new problems should still require human intervention.
 
 ---
 
 ## V. Challenges and Opportunities
 
-A recurring challenge with AI in ICS 314 was distinguishing between helpful guidance and misleading output. At times, AI would produce code that looked correct but didn't work in the intended ways. Another challenge was the temptation to overuse AI and bypass the problem-solving process. That said, there are opportunities to formally integrate AI usage into the course maybe through structured prompts or AI literacy module at the beginning of the year to help students use these tools responsibly and effectively.
+A recurring challenge with AI in ICS 314 was distinguishing between helpful guidance and misleading output. At times, AI would produce code that looked correct but didn't work in the intended ways. Another challenge was the temptation to overuse AI and bypass the problem-solving process. That said, there are opportunities to formally integrate AI usage into the course, maybe through structured prompts or an AI literacy module at the beginning of the year to help students use these tools responsibly and effectively.
 
 ---
 
 ## VI. Comparative Analysis
 
-Compared to traditional teaching methods, AI-enhanced learning offers instant feedback, personalized instruction, and more autonomy in how I approach problems. While lectures and documentation are essential, AI can fill in the gaps, especially when instructors are unavailable. However, traditional methods often foster deeper learning through repetition, collaboration, and the hands on experience essential when learning to code. AI tools complement but should not replace these foundations.
+Compared to traditional teaching methods, AI-enhanced learning offers instant feedback, personalized instruction, and more autonomy in how I approach problems. While lectures and documentation are essential, AI can fill in the gaps, especially when instructors are unavailable. However, traditional methods often foster deeper learning through repetition, collaboration, and the hands-on experience essential when learning to code. AI tools complement but should not replace these foundations.
 
 ---
 
