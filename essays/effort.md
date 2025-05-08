@@ -10,7 +10,7 @@ labels:
   - IDPM
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/effort.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/effort/effort.jpg">
 
 *"Work expands so as to fill the time available for its completion." - C. Northcote Parkinson"*
 
