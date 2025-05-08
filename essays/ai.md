@@ -4,7 +4,7 @@ type: essay
 title: "AI Ain't All That"
 # All dates must be YYYY-MM-DD format!
 date: 2025-05-12
-published: true
+published: false
 labels:
   - Software Engineering
   - Artificial Intelligence
@@ -44,66 +44,64 @@ The use of artificial intelligence has become a norm among students in modern ed
 *Reflection:* For the playwright tests I used ChatGPT to troubleshoot all the errors I was getting as most tests were fine when I clicked throuugh each test in debug mode, but running the tests at full speed would result in most tests failing as the sign in page would fail. I would ask ChatGPT what was wrong with the error codes attached and implement them in my code. The responses were useful half the time, but the other half of the responses did not work.
 
 ### 6. Learning a Concept / Tutorial  
-*Example: I asked ChatGPT “Explain the Observer pattern with a JavaScript example” when trying to understand design patterns.*  
-*Reflection:* [Insert your experience here.]
+*Example: I asked ChatGPT to explain styliing and how Nextjs elements like Navbar translate to HTML.*  
+*Reflection:* The response was initially helpful in understanding what was going on under the hood, but I have since forgotten how it works and don't plan on relearning it again. One reason may be a I have a weak foundation in HTML and styling in the first place, so the new information went in one ear and out the other in some time.
 
 ### 7. Answering a Question in Class or on Discord  
-*Example:*  
-*Reflection:* [Insert your experience here.]
+*Example: I didn't use any AI to answer a question in class or on Discord.*  
+*Reflection:* I didn't use AI because I would assume that they would have already used AI to answer their question, and if I used AI too to answer their question then the answers would be redundant.
 
 ### 8. Asking or Answering a Smart-Question  
-*Example:*  
-*Reflection:* [Insert your experience here.]
+*Example: I didn't use any AI to answer a Smart-Question in class or on Discord.*  
+*Reflection:* Same reasons as the above point.
 
-### 9. Coding Example (e.g., “Give an example of using Underscore _.pluck”)  
-*Example: I prompted ChatGPT with “Give me a JavaScript example using Underscore.js _.pluck to extract names from an array of objects.”*  
-*Reflection:* [Insert your experience here.]
+### 9. Coding Example
+*Example: I prompted ChatGPT to “Give me an example of a sidebar using Nextjs and react.”*  
+*Reflection:* I used it to see if it was able to create it for our site, but the code it gave was not working for me, so in the end I followed a HTML tutorial on YouTube and adjusted the code and style sheet to fit my needs.
 
 ### 10. Explaining Code  
-*Example:*  
-*Reflection:* [Insert your experience here.]
+*Example: I didn't use any AI to explain full code, only lines of elements I was unfamiliar with, prompting ChatGPT with "what does \*line\* do?".*
+*Reflection:* Using AI to explain small code snippets was useful in figuring out what the full code was trying to do. 
 
 ### 11. Writing Code  
-*Example:*  
-*Reflection:* [Insert your experience here.]
+*Example: I used ChatGPT and Github Copilot most prominently during the final project to write code for me as working with prisma schemas for the database was very confusing to me.*  
+*Reflection:* The geenrated code was useful most of the time after I would look it over and ask it to revise parts I thoguht were wrong.
 
 ### 12. Documenting Code  
-*Example:*  
-*Reflection:* [Insert your experience here.]
+*Example: I didn't use any AI to specifically document code as it would create comments automatically after asking it to generate code.*  
+*Reflection:* The comments it did provide were useful in providing explanations for what was meant to happen and it also indicated places to change the code to fit my needs.
 
 ### 13. Quality Assurance  
-*Example: I pasted a code snippet into ChatGPT and asked, “Fix the ESLint issues in this Meteor component.”*  
-*Reflection:* [Insert your experience here.]
+*Example: I used Github Copilot to save time when fixing ESLint error, most prominently indentation errors.*  
+*Reflection:* Since ESLint provides the area where there is an error, most of the time it is an easy formatting issue to fix, but after deleting an element a whole code block would be off expected indentation, so Copilot was useful in indenting whole blocks instead of me having to indent each one by one.
 
 ### 14. Other Uses in ICS 314 Not Listed  
-*Example:*  
-*Reflection:* [Insert your experience here.]
+*Example: The only other use I used AI for in ICS 314 was to summarize the reading in the computing ethics module involving AI in the workplace with the prompt "summarize this article at the ste \*link\*"*  
+*Reflection:* It was useful in saving time and getting the main ideas of the text. I was able to not have to read that long article in the short time we were given.
 
 ---
 
 ## III. Impact on Learning and Understanding
 
-AI tools have significantly affected the way I understand and apply software engineering concepts. They provided a supplemental layer of explanation that often helped me bridge the gap between lecture material and application. For example, when I struggled with asynchronous JavaScript and promises, ChatGPT helped break down the flow in simple terms with visual analogies and code examples. However, reliance on AI occasionally made me too passive, and I had to remind myself to independently practice and struggle through code to fully absorb the learning.
+AI tools have significantly affected the way I understand and apply software engineering concepts. They provided another layer of explanation that often helped me in my understanding. However, some uses such as generating full components of code did not aid me in learning. Heavy reliance on AI occasionally made me too dismissive of actually putting in the work to understand some meatieral, and I had to remind myself to independently practice and struggle through code to fully absorb the learning.
 
 ---
 
 ## IV. Practical Applications
 
-Outside of ICS 314, I have applied AI tools in various software-related projects.  
-*[Insert specific real-world examples here, such as HACC or internships.]*  
-In these settings, AI assisted with code reviews, writing documentation, and rapidly prototyping solutions. The real-time guidance from tools like GitHub Copilot often improved efficiency, especially when dealing with unfamiliar APIs or libraries. However, I also learned the importance of validating AI-generated solutions before integrating them into production-level code.
+Outside of ICS, Ai has been used to create things such as chatbots and used in research to analyze things like cancer. Some doctors are using AI to aid in detection of AI and predict the chances of development in a patient. Based on these it also aids in the creation of a treatment plan. In these real-world challenges, yes it can be useful, but I feel it is still required for some human verification at the end. AI should be used to save time to solve known problems, but new problems should still require human intevention.
 
 ---
 
 ## V. Challenges and Opportunities
 
-A recurring challenge with AI in ICS 314 was distinguishing between helpful guidance and misleading output. At times, AI would produce syntactically correct but semantically incorrect code, especially when dealing with specific Meteor/MongoDB integrations. Another challenge was the temptation to overuse AI and bypass the problem-solving process. That said, there are opportunities to formally integrate AI usage into courses—perhaps through structured prompts or AI literacy workshops—to help students use these tools responsibly and effectively.
+A recurring challenge with AI in ICS 314 was distinguishing between helpful guidance and misleading output. At times, AI would produce code that looked correct but didn't work in the intended ways. Another challenge was the temptation to overuse AI and bypass the problem-solving process. That said, there are opportunities to formally integrate AI usage into the course maybe through structured prompts or AI literacy module at the beginning of the year to help students use these tools responsibly and effectively.
 
 ---
 
 ## VI. Comparative Analysis
 
-Compared to traditional teaching methods, AI-enhanced learning offers instant feedback, personalized instruction, and more autonomy in how I approach problems. While lectures and documentation are essential, AI can fill in the gaps, especially when instructors are unavailable. However, traditional methods often foster deeper learning through repetition, collaboration, and hands-on struggle. AI tools complement but should not replace these foundations.
+Compared to traditional teaching methods, AI-enhanced learning offers instant feedback, personalized instruction, and more autonomy in how I approach problems. While lectures and documentation are essential, AI can fill in the gaps, especially when instructors are unavailable. However, traditional methods often foster deeper learning through repetition, collaboration, and the hands on experience essential when learning to code. AI tools complement but should not replace these foundations.
 
 ---
 
@@ -115,6 +113,6 @@ Looking ahead, AI is likely to play a growing role in software engineering educa
 
 ## VIII. Conclusion
 
-Reflecting on my experience in ICS 314, AI has been a valuable but double-edged tool. It enhanced my learning, clarified difficult concepts, and made coding more efficient. However, it also introduced challenges around over-reliance and accuracy. Thoughtful integration of AI into the curriculum—paired with traditional teaching and human mentorship—can provide a balanced and enriched educational experience. Going forward, I recommend clear guidelines, practice prompts, and collaborative case studies to make AI a responsible partner in software engineering education.
+Reflecting on my experience in ICS 314, AI has been a valuable but double-edged tool. It enhanced my learning, clarified difficult concepts, and made coding more efficient. However, it also introduced challenges around over-reliance and accuracy. Thoughtful integration of AI into the curriculum paired with traditional teaching can provide a balanced educational experience. Going forward, I recommend clear guidelines, practice prompts, and collaborative case studies to make AI a responsible partner in software engineering education.
 ```
 
