@@ -37,4 +37,4 @@ Issue-driven project management is a helpful way to organize people and work whe
 
 Overall, searching for answers online, using coding standards, and issue-driven project management are all key parts of being a good software developer. Since it’s impossible to know everything, being able to quickly find answers online is a must. Coding standards keep the code clean and easy to read, especially when working with others. Managing tasks through issues helps break big projects into smaller, clear steps that can be done independently and on time. These concepts help make software development more efficient, organized, and less stressful.
 
-*AI used to assist in defining terms.*
+\**AI used to assist in defining terms.*
