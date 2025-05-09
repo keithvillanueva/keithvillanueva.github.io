@@ -14,8 +14,6 @@ labels:
 
 ---
 
-# Reflecting on My Use of AI in ICS 314
-
 ## I. Introduction
 
 The use of artificial intelligence has become a norm among students in modern education, transforming how some students learn, engage with new concepts, and solve problems. In the context of software engineering, many AI tools offer immediate feedback in the code editor, quickly generate code examples to prompts, clarify complex concepts, and serve as 24/7 available tutors. In ICS 314, the integration of AI has provided both opportunities and challenges. During this semester course, I used the AI tools ChatGPT and GitHub Copilot the most. These tools played different roles in my software engineering journey, from writing code to debugging and documentation. I used ChatGPT for simplification of concepts that were difficult for me, code and idea generation, and troubleshooting. I used Github Copilot for code completion and suggestions. 
