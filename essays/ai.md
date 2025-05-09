@@ -113,5 +113,3 @@ Looking ahead, AI is likely to play a growing role in software engineering educa
 ## VIII. Conclusion
 
 Reflecting on my experience in ICS 314, AI has been a valuable but double-edged tool. It enhanced my learning, clarified difficult concepts, and made coding more efficient. However, it also introduced challenges around over-reliance and accuracy. Thoughtful integration of AI into the curriculum paired with traditional teaching can provide a balanced educational experience. Going forward, I recommend clear guidelines, practice prompts, and collaborative case studies to make AI a responsible partner in software engineering education.
-```
-
