@@ -13,11 +13,10 @@ labels:
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/reflect_swe/reflect_swe.png">
+<br>
 
 *"If you do not know how to ask the right question, you discover nothing." - W. Edward Deming*
-
----
-
+<br>
 In this software engineering class, we touched upon various concepts uesd to help make good software. Some of the most important ideas I feel we've come across through out the semester are open source software development, coding standards, and issue driven project management
 
 ## Open Source Development
