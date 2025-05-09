@@ -12,6 +12,8 @@ labels:
 
 <img width="200px" class="rounded float-start pe-4" src="../img/ai/ai.png">
 
+---
+
 # Reflecting on My Use of AI in ICS 314
 
 ## I. Introduction
