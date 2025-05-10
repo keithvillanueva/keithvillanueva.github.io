@@ -2,13 +2,12 @@
 layout: project
 type: project
 image: img/manoaconnect/landing.png
-title: "Capture the Flag"
+title: "Manoa Connect"
 date: 2025
 published: true
 labels:
-  - Cybersecurity
-  - Linux
-summary: "I created a club finder website."
+  - Web Development
+summary: "I helped create a club finder website."
 ---
 ## Overview ##
 In our Software Engineering class, we were tasked with creating a functional website as a final group project. Our group chose to create a club finding website called [Manoa Connect](https://manoa-connect.vercel.app/). Our goal was to create a club finder with a similar feel to social media where  we could connect students at the University of Hawai‘i at Mānoa with the many amazing clubs, student organizations, and communities on campus. We aimed to implement features such as filtering, following and posting in order to make it more similar to social media. 
