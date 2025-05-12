@@ -14,9 +14,7 @@ labels:
 <img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/smart-questions.jpg">
 
 ## Did Teachers Lie About Stupid Questions?
-Throughout my life, many professors and teachers have started class by saying, "There’s no such thing as a stupid question." This was a phrase I heard constantly from my professor last semester. He was teaching a notoriously difficult computer science course—a significant step up from previous classes—and he wasn’t shy about telling us the material would be challenging. To make us feel more comfortable asking for help, he would regularly repeat, "There are no stupid questions."
-
-While I generally agree with the sentiment, I’ve come to believe that it’s important to take a moment to think before asking. It’s not that stupid questions exist, but smart questions are far more valuable.
+Throughout my life, many professors and teachers have started class by saying, "There’s no such thing as a stupid question." This was a phrase I heard constantly from my professor last semester. He was teaching a notoriously difficult computer science course—a significant step up from previous classes—and he wasn’t shy about telling us the material would be challenging. To make us feel more comfortable asking for help, he would regularly repeat, "There are no stupid questions." While I generally agree with the sentiment, I’ve come to believe that it’s important to take a moment to think before asking. It’s not that stupid questions exist, but smart questions are far more valuable.
 
 One reason people perceive some questions may be seen as “stupid” is that they could easily be answered with just a bit of effort. For example, asking something that’s already written on the syllabus or whiteboard suggests the person hasn’t even tried. Before asking a question, it’s important to first make a genuine effort to solve the problem on your own. Not only does this encourage independent thinking, but it also leads to deeper understanding. However, when you’ve tried and still can’t figure it out, that’s when to ask a smart question.
 
