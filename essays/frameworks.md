@@ -21,8 +21,8 @@ In my software engineering class in college, we are currently learning how to ma
 ## (H)ow (T)o (M)ake Web Pages (L)ook Good?
 
 One of things I liked about HTML was the amount of customizability it could support. Though it was hard to implement at times as we could control pretty much everything pertaining to the appearance, or style, of the page such as the spacing between elements, their color, text fonts, etc., it was nice knowing that I had the option to do much more if I wanted to. The use of classes and id's to hold certain styles was also good in limiting the total amount of clutter on the screen and forced me to have to plan ahead first before jumping in. This much freedom I felt was also a type of burden after being stuck not knowing which specific element to use in a scenario. Admittedly, art also isn't really in my wheelhouse.
-<div style="text-align: center; margin: 2em 0;">
-  <img src="../img/frameworks/nobootstrap.png" alt="Alt Text" width="300">
+<div style="margin: 2em 0;">
+  <img src="../img/frameworks/nobootstrap.png" alt="Alt Text" width="400">
   <br>
 </div>
   *Using HTML*
@@ -30,8 +30,8 @@ One of things I liked about HTML was the amount of customizability it could supp
 ## Shiny New Tools
 
 There are many different public tools out there called frameworks, that use HTML as a backbone, that can be added to these web pages in order to customize to their liking. One framework we are using in class right now is Bootstrap 5. Bootstrap 5 comes with pre-styled classes that do various things to the appearance. One such class 'content-justify-end' would make it so elements were placed to the right of the page. This made it easier to implement certain stylistic ideas we wanted. However, with more and more classes used, one of the main issues I was still having was getting lost with the use of all these different classes. Some elements were taking multiple classes and the amount of clutter on the screen made it so I would frequently lose where I was looking at and what elements were nested within another. Implementation was also an issue as I had a difficult time learning what all the classes were doing and what new elements to use when and where.
-<div style="text-align: center; margin: 2em 0;">
-  <img src="../img/frameworks/wbootstrap.png" alt="Alt Text" width="300">
+<div style="margin: 2em 0;">
+  <img src="../img/frameworks/wbootstrap.png" alt="Alt Text" width="400">
   <br>
 </div>
   *Using Bootstrap*
