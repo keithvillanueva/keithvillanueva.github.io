@@ -17,7 +17,11 @@ For the project, my main contributions dealt with the sidebar, the feedback page
 <br>
 ## Feedback Page ##
 <br>
-  <img width="800px" src="../img/manoaconnect/feedback_page.png" class="img-thumbnail" >
+  <img width="600px" src="../img/manoaconnect/feedback_page.png" class="img-thumbnail" >
+<br>
+## Admin Page ##
+<br>
+  <img width="600px" src="../img/manoaconnect/admin.png" class="img-thumbnail" >
 <br>
 
 # Takeaways #
