@@ -31,6 +31,6 @@ On the other hand, [this question](https://stackoverflow.com/questions/35181785/
 For software engineers, asking smart questions is crucial to learning and growing. Asking smart questions to peers, mentors, and online communities will support growth in both the skills and knowledge needed to become a better software developer. When asking smart questions, 
 1. First try to understand the problem on your own.
 2. Find a suitable place for your question. Be clear and concise in description and context.
-3. Provide a clear end goal that is meant to be accomplished
+3. Provide a clear end goal that is meant to be accomplished.
 
 Asking smart questions for software engineers is the start of learning.
