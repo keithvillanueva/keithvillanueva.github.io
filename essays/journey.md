@@ -9,7 +9,7 @@ labels:
   - Software Engineering
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/journey/journey.avif">
+<img width="250px" class="rounded float-start pe-4" src="../img/journey/journey.avif">
 
 ## Early Days
 
