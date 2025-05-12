@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/manoaconnect/landing.png
+image: img/manoaconnect/ManoaConnectCenterLogo3.webp
 title: "Manoa Connect"
 date: 2025
 published: true
@@ -17,7 +17,7 @@ For the project, my main contributions dealt with the sidebar, the feedback page
 <br>
 ## Feedback Page ##
 <br>
-<img class="rounded float-start pe-4" src="../img/manoaconnect/feedback_page.png">
+<img width="400px" class="rounded float-start pe-4" src="../img/manoaconnect/feedback_page.png">
 <br>
 
 # Takeaways #
