@@ -12,17 +12,15 @@ labels:
 
 <img width="200px" class="rounded float-start pe-4" src="../img/standards/standards.jpeg">
 
-*"You don't learn to walk by following rules. You learn by doing, and falling over."* - Richard Branson
+*"You don't learn to walk by following rules. You learn by doing, and falling over."* — Richard Branson
 
-In my software engineering class in college, we are currently learning how to use integrated development environments (IDE) in order to help us code more efficiently. These IDEs are meant for programming and have capabilities such as compiling and running code, being able to detect the programming language we are writing in and being able to detect some errors in real time as we type the source code. There are some other extensions that can be downloaded from other sources as well for further assistance. One such extension we are using in class is ESLint. 
+In my college software engineering class, we're currently learning how to use integrated development environments (IDEs) to write code more efficiently. IDEs are built specifically for programming, having capabilities such as compiling and running code, being able to detect the programming language we are writing in and being able to detect some errors in real time as we type the source code. There are some other extensions that can be downloaded from other sources as well for further assistance. One such extension we are using in this class is ESLint.
+ 
+## Isn't That the Thing from My Dryer?
 
-## Isn't that the thing from my dyer?
+Nope, different lint. ESLint is a tool used to ensure that our code follows certain *Coding Standards*. These standards are a set of guidelines that developers follow to make code more readable, maintainable, and consistent. Since software development is often a collaborative effort with other software engineers, it’s crucial for team members to be able to read and understand each other’s code easily. From my experience, ESLint focuses on improving readability and enforcing best practices for the language in use.
 
-ESLint in this case is a tool that is used to make sure that our code follows the 'Coding Standards.' Coding standards are the sort of guidelines that software developers use to make sure that the code they are writing is readable, maintainable, and consistent. Many times, software development is done in collaboration with others in a team, and it is important to make sure that if someone needs to look at another person's code, it is easy to read through and comprehend. Some of the features I feel ESLint mainly prioritizes is in the readability of the code and the best practices for the language.
-
-While doing an assignment ESLint would throw me suggestions like changing some of my variable declarations statements from 'let' to 'const' when dealing with a variable that wasn't directly modified, or it was an array that I just pushed values to. In this way I found ESLint helpful as it would make me think carefully about each line of code I wrote and its effects. The error messages it returned were helpful in finding the place to change and the reasons for why it should be changed.
-
-There were some instances however where some standards I had to follow through ESLint seemed unnecessary. One such example was having to place a space before the opening curly bracket '{' when declaring a function, loop, or anything that required the bracket. Not doing so would underline in red the whole space enclosed by the curly brackets which freaked me out, and made me think there was something terribly wrong with my code. That little space before the curly bracket I felt didn't do much to improve the readability of the code anyway and felt petty. 
+While working on assignments, ESLint would frequently suggest small adjustments — like changing 'let' to 'const' when a variable wasn’t being modified, or when I was only pushing values to an array. These nudges helped me pause and think more critically about the purpose and behavior of each line of code. The feedback it gave was usually clear, pointing directly to the issue and explaining the reasoning behind why the change was recommended. That being said, not every rule felt necessary. For example, ESLint insisted that I place a space before the opening curly brace '{' in functions, loops, or other blocks that required brackets. Not doing so would underline a large section of code in red, which at first made me think something was seriously broken in the code. In my opinion, that one space didn’t really improve the readability of the code and felt more nitpicky than helpful.
 
 <div class="text-center p-4">
   <img width="400px" 
@@ -34,4 +32,7 @@ There were some instances however where some standards I had to follow through E
 </div>
 
 ## Beyond the Classroom
-While I agree that coding standards are helpful in creating readable code, especially in environments where teamwork is needed, I feel that some of the standards enforced by ESLint can be a bit extra where breaking some of them wouldn't affect readability of the code. However, ESLint has also been helpful in ways that have helped me to understand how to code better when going through the error messages provided. Overall, my short experience with ESLint has shown to be helpful in my learning and I plan to continue to utilize it to my benefit.
+
+While I agree that coding standards are helpful in creating readable code, especially in environments where teamwork is required, I feel that some of the rules enforced by ESLint can feel excessive. Minor style preferences like spacing before brackets don’t always impact the clarity of the code. Still, ESLint has also been helpful in ways that have helped me to write better code and better understand best coding practices when going through the error messages provided. 
+
+Overall, my short experience with ESLint has shown to be helpful to my learning. Even if I don’t agree with every single rule, I plan to continue to utilize it to my benefit.
