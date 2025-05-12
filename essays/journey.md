@@ -11,6 +11,8 @@ labels:
 
 <img width="200px" class="rounded float-start pe-4" src="../img/journey/journey.avif">
 
+## Early Days
+
 Like many people getting into tech today, my first interest in the field began with video games. Sandbox games like *Roblox* and first-person shooters like *Call of Duty* attracted players from all walks of life. My personal early obsession was with *Minecraft*. I would spend hours building elaborate structures out of blocks, terrorizing the in-game animals and villagers, and watching YouTube videos to discover new features I could build in my own world. The elements of both exploration and creation in the game kept me hooked.
 
 One thing I could never quite figure out, though, was redstone. In *Minecraft*, redstone acts like a form of electricity and can be used to build surprisingly complex machines. In many ways, it was like programming. It allowed players to create automatic machines to improve efficiency, and mechanisms similar to if/else logic using just redstone.
