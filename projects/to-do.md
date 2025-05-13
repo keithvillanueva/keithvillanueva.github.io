@@ -4,7 +4,7 @@ type: project
 image: img/to-do/to-do-list.jpg
 title: "To-Do List"
 date: 2024
-published: true
+published: false
 labels:
   - Java
   - Array Lists
