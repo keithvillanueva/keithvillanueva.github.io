@@ -10,11 +10,9 @@ labels:
   - IDPM
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/effort/effort.jpg">
+<img width="300px" class="rounded float-start pe-4" src="../img/effort/effort.jpg">
 
 *"Work expands so as to fill the time available for its completion." - C. Northcote Parkinson"*
-
----
 
 Often I find myself beginning large projects with optimistic timelines, thinking I'm above what the average time to complete should be and that I can complete it in record time. This underestimation was true during my experience studying for the CCST certification I mentioned in a previous post on this site, and is also apparent while I study for the Security+ certification. It has also continued to be true in these past couple weeks of school where my group and I have to create a website to help the UHM community. At the moment, while estimating how much time a task would take to complete, I grossly underestimated how fast I could work. For a simple task, such as updating an existing element, I thought it would take a maximum of 10 minutes, but actually going in and fixing everything would take upwards of 30 minutes.
 
