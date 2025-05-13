@@ -4,7 +4,7 @@ type: essay
 title: "Break the Rules"
 # All dates must be YYYY-MM-DD format!
 date: 2025-02-13
-published: false
+published: true
 labels:
   - Software Engineering
   - Coding Standards
