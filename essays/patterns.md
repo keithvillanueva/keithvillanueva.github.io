@@ -32,4 +32,7 @@ Similarly in software engineering, two seemingly unrelated problems may have som
 </div>
 *Webpage built using patterns*
 <br>
+
+## Final Thoughts
+
 Ultimately, design patterns are more than just general solutions to common software engineering problems; they’re blueprints to saving time in problem areas that have been solved countless times before already. They allow for a larger focus in areas that may have not been covered before. They're also crucial to build upon as these newer problems arise and are solved. Whether in nature, mathematics, music, or software engineering, patterns guide us in recognizing what works and in building upon it.
