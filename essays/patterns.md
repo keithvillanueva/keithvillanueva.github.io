@@ -10,7 +10,6 @@ labels:
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/patterns/chameleon_tail.jpg">
-<br>
 
 *Pattern: a reliable sample of traits, acts, tendencies, or other observable characteristics of a person, group, or institution.*
 <br>
