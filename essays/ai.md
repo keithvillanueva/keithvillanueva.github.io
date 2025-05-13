@@ -22,7 +22,7 @@ The use of artificial intelligence has become a norm among students in modern ed
 
 ## II. Personal Experience with AI
 
-### 1. Experience WODs (e.g., E18)  
+### 1. Experience WODs
 *Example: For most of the React and Nextjs Experience WODs I would ask ChatGPT "What is x component doing in this code?"*  
 *Reflection:* At the time, the nesting of elements was very confusing to me and it was hard for me to wrap my head around some of the concepts of these new objects and how it was translating to HTML. I still don't think I have a great understanding of it, but can get by when reading and trying to understand what a piece of code is doing.
 
