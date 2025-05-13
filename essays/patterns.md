@@ -15,7 +15,7 @@ labels:
 *Pattern: a reliable sample of traits, acts, tendencies, or other observable characteristics of a person, group, or institution.*
 <br>
 
-In nature, patterns are everywhere. One prevalent example is the nautilus shell whose shell grows in a spiral pattern as the animal matures, following nature's golden ratio. This spiral not only provides structural strength but also adds new chambers to accommodate its growth. The chambers help the nautilus maintain buoyancy and stability in the water. Another example of a natural pattern is the rings found in the logs of trees, formed due to seaonal changes and environmental conditions. While they may be coincidental, these rings tell the story of time, growth, and perseverance throughout the years of a tree's life.
+In nature, patterns are everywhere. One prevalent example is the nautilus shell whose shell grows in a spiral pattern as the animal matures, following nature's golden ratio. This spiral not only provides structural strength but also adds new chambers to accommodate its growth. The chambers help the nautilus maintain buoyancy and stability in the water. Another example of a natural pattern is the rings found in the logs of trees, formed due to seasonal changes and environmental conditions. While they may be coincidental, these rings tell the story of time, growth, and perseverance throughout the years of a tree's life.
 
 ## In the context of programming
 
