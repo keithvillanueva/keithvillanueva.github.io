@@ -24,6 +24,12 @@ Similarly, in software engineering, design patterns emerge as a result of develo
 ## In the context of my life
 Many of my math classes rely heavily on pattern recognition which could be identifying sequences, applying formulas, or following consistent steps in order to arrive at the correct solution. My personal music taste also leans toward pattern recognition: I’m more drawn to the beat and bass line of the song rather than the lyrics themselves. Though math and art are seen as two completely different fields of interest, they share the fact that patterns are very relevant. 
 
-Similarly in software engineering, two seemingly unrelated problems may have some connection through design patterns. In one instance in my own code, I found design patterns between our weekly assignments and tests. One specific test wanted us to create a webpage with things like background images and headers, but the specifics differed from the homeworks where we were also tasked with researching and creating small backgrounds of surfers on the front page. Up till then, we had mainly focused on page layouts, so finding the pattern in the page allowed me to quickly go through most of the general issues of the in-class test and focus most of my time on creating the row of biographic cards.
-<img width="200px" class="rounded float-start pe-4" src="../img/patterns/patterns_surf.png">
+Similarly in software engineering, two seemingly unrelated problems may have some connection through design patterns. In one instance in my own code, I found design patterns between our weekly assignments and tests. One specific test wanted us to create a webpage with things like background images and headers, but the specifics differed from the homeworks where we were also tasked with researching and creating small backgrounds of surfers on the front page. Up till then, we had mainly focused on page layouts, so finding the pattern in the page allowed me to quickly go through most of the general issues of the in-class test and focus most of my time on creating the row of biographic cards.'
+
+<div style="margin: 2em 0;">
+  <img src="../img/patterns/patterns_surf.png" alt="Surfing Page" width="600">
+  <br>
+</div>
+*Webpage built using patterns*
+<br>
 Ultimately, design patterns are more than just general solutions to common software engineering problems; they’re blueprints to saving time in problem areas that have been solved countless times before already. They allow for a larger focus in areas that may have not been covered before. They're also crucial to build upon as these newer problems arise and are solved. Whether in nature, mathematics, music, or software engineering, patterns guide us in recognizing what works and in building upon it.
